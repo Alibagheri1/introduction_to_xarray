@@ -28,7 +28,7 @@ The notebooks cover the following topics:
 
 ## Getting Started
 
-1.  **Clone the repository:** `git clone [Your Fork's URL]`
+1.  **Clone the repository:** `https://github.com/Alibagheri1/introduction_to_xarray/tree/master`
 
 2.  **Install xarray and Jupyter:**
     ```bash
